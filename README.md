@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, 
 
-<!--
-**Ismail-m-a/Ismail-m-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ismail M. Adam  
 
-Here are some ideas to get you started:
+🚀 **Full-Stack Web Developer** | JavaScript | React | Node.js | MongoDB | Python (Django)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building secure, scalable, and user-friendly web applications.  
+I enjoy learning new technologies and applying them to real-world projects.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Redux, Tailwind CSS, Sass (SCSS)  
+- **Backend:** Node.js, Express, Django  
+- **Database:** MongoDB, Firebase  
+- **Other Tools:** Git, Docker, Postman, REST APIs, OWASP ZAP  
+- **Languages:** JavaScript (ES6+), Python  
+
