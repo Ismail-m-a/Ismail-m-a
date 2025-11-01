@@ -9,9 +9,6 @@ I enjoy learning new technologies and applying them to real-world projects.
 
 ---
 
-## 🛠️ Frontend technologies
+## 🛠️ Frontend technologies: ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,git)
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,py,git)
-
-## 🛠️ Backend technologies
-![My Skills](https://skillicons.dev/icons?i=django,nodejs)
+## 🛠️ Backend technologies: ![My Skills](https://skillicons.dev/icons?i=django,nodejs)
