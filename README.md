@@ -17,7 +17,7 @@ Passionate about building **secure, scalable, and user-friendly web applications
 
 | Category | Skills |
 | :--- | :--- |
-| **Frontend** | ![My Skills](https://skillicons.dev/icons?i=html,css,js,react) |
+| **Frontend** | ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap) |
 | **Backend** | ![My Skills](https://skillicons.dev/icons?i=nodejs,py,django,mongodb) |
 | **DevOps & Tools** | ![My Skills](https://skillicons.dev/icons?i=git,github,docker) |
 
