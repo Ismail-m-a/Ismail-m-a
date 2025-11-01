@@ -11,4 +11,4 @@ I enjoy learning new technologies and applying them to real-world projects.
 
 ## 🛠️ Tech Stack
 
-(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,py,git)
